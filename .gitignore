@@ -1,0 +1,12 @@
+*.hprof
+managed-jbake.code-workspace
+managed-jbake-context.yml
+gradle-home.properties
+build
+.gradle
+todo.adoc
+content/ignored
+.idea
+.settings
+gradle/wrapper/gradle-wrapper.jar
+.project

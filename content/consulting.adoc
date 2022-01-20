@@ -1,0 +1,32 @@
+date=2021-12-31
+type=page
+status=published
+~~~~~~
+
+----
+                Artisanat Digital
+----
+
+
+*Mon but: Améliorer votre expérience digital.*
+
+==== _Comment j'interviens ?_
+
+* Analyse des besoins, identifications des traitements.
+* Prototypage et proposition de budget.
+* Développement d'une solution.
+* Déploiement et exploitation de la solution.
+
+==== _Mes outils:_
+
+* Méthodologies: Agile, Scrum, Kanban et Merise.
+* Design: Figma.
+* Mobile: Kotlin et Android Studio.
+* Front end: Html, Css, Vanilla Javascript, Reactjs et Gatsbyjs.
+* Back end:
+** Kotlin, Groovy, Java et SpringBoot
+** Javascript, Node.js et ExpressJs
+** PostgreSQL, MySQL, H2 et Firebase
+** Docker, Kubernetes et Microkubernetes
+
+==== contact: cheroliv @t laposte.net
