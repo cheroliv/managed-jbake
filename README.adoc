@@ -1,4 +1,4 @@
-= @Cheroliv's blog
+= @Cheroliv's blog https://wwww.cheroliv.com[https://www.cheroliv.com]
 
 https://docs.gradle.org/current/userguide/userguide.html[Gradle]
 + https://jbake.org/[JBake]
@@ -24,5 +24,4 @@ Now enjoy the live local mode :
 ./gradlew publishSite
 ```
 
-https://wwww.cheroliv.com[https://www.cheroliv.com]
 
