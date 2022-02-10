@@ -8,7 +8,7 @@ status=published
 ----
 Ce blog est mon support pour laisser des traces en ligne.
 Je partage savoir-faire, trucs et astuces, sur des sujets techniques.
-On peut me contacter à cette adresse: cheroliv @t laposte.net
+On peut me contacter à cette adresse: cheroliv.developer@laposte.net
 ----
 
 
@@ -17,5 +17,5 @@ On peut me contacter à cette adresse: cheroliv @t laposte.net
 ----
 This blog is my place to leave pieces online.
 I like to share "savoir-faire", tips and tricks, on technical subject.
-I can be reached at: cheroliv @t laposte.net
+I can be reached at: cheroliv.developer@laposte.net
 ----

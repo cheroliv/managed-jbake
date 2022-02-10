@@ -23,7 +23,6 @@ status=published
 * Pratiques: test driven development, behavior driven design
 * Back end:
 ** Kotlin, Groovy, Java & SpringBoot
+** Gradle, Docker, Jenkins, Git
 ** PostgreSQL, MySQL, H2 et Firebase
 * Front end: javascript, Gatsby.Js
-
-==== contact: cheroliv @t laposte.net
