@@ -6,6 +6,7 @@
 :jbake-type: post
 :jbake-status: published
 :jbake-date: 2019-08-19
+:summary: installer des .deb en ligne de commandes
 
 Pour installer un paquet debian depuis un fichier .deb en ligne de commandes. +
 [source,bash]

@@ -6,7 +6,7 @@
 :jbake-tags: blog, ticket, gradle, override-parammeter, gradle-cli
 :jbake-status: published
 :jbake-date: 2020-09-22
-
+:summary: ./gradlew -Pparam_component=CUSTOM
 ===== Surcharger un parametre par la ligne de commande :
 
 ```

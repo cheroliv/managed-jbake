@@ -6,7 +6,7 @@
 :jbake-tags: blog, ticket, kubernetes, k8s, microk8s, docker, cloud, memo
 :jbake-status: published
 :jbake-date: 2020-11-03
-
+:summary: Installation, mise en place de micro kubernetes, docker, et lancement d'un helloworld sur linux/unix
 
 https://microk8s.io/docs/[doc officiel de microk8s] +
 

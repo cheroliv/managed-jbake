@@ -6,6 +6,7 @@
 :jbake-tags: blog, ticket, unix, linux, permissions
 :jbake-status: published
 :jbake-date: 2021-12-04
+:summary: Simple mémo sur unix/linux et le terminal bash
 mise à jour: 12-02-2022
 
 == Le clavier :

@@ -6,6 +6,8 @@
 :jbake-type: post
 :jbake-status: published
 :jbake-date: 2019-07-19
+:summary: recherche de fichier par motif en groovy
+
 
 Le but de ce script est de rechercher des fichiers, +
 à partir d'un répertoire parent; récupérer la sélection +

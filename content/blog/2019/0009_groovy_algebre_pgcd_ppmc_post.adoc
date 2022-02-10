@@ -6,7 +6,7 @@
 :jbake-type: post
 :jbake-status: published
 :jbake-date: 2019-08-13
-
+:summary: de l'algebre en groovy
 === Le PGCD
 https://fr.wikipedia.org/wiki/Plus_grand_commun_diviseur[wiki PGCD ou Plus Grand Commun Diviseur]
 

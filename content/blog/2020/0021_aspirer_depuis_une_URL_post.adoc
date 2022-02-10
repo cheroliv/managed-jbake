@@ -6,7 +6,7 @@
 :jbake-tags: blog, ticket, bash, wget, memo
 :jbake-status: published
 :jbake-date: 2020-09-20
-
+:summary: wget aspirateur d'URL
 ==== Liens: https://stackoverflow.com/a/1078539/837404[stackoverflow]
 
 ```

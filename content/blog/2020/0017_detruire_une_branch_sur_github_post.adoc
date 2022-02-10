@@ -6,6 +6,7 @@
 :jbake-tags: blog, ticket, branch, git, github, delete, vcs, csv
 :jbake-status: published
 :jbake-date: 2020-09-16
+:summary: complément mémo git
 
 ==== Détruire une branch sur github
 

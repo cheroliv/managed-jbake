@@ -6,7 +6,7 @@
 :jbake-tags: blog, ticket, gradle, test, task, rerun-test, memo
 :jbake-status: published
 :jbake-date: 2020-09-25
-
+:summary: ajouter l’argument --rerun-tasks à la ligne commande.
 ajouter l’argument --rerun-tasks à la ligne commande.
 [source,bash]
 ```

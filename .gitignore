@@ -10,3 +10,4 @@ content/ignored
 .settings
 gradle/wrapper/gradle-wrapper.jar
 .project
+templates/code.txt

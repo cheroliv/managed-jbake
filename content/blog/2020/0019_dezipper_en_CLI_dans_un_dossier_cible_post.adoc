@@ -6,7 +6,7 @@
 :jbake-tags: blog, ticket, bash, shell-script, unzip, memo
 :jbake-status: published
 :jbake-date: 2020-09-18
-
+:summary: dezipper en ligne de commande
 
 ==== Liens: https://askubuntu.com/questions/86849/how-to-unzip-a-zip-file-from-the-terminal[askubuntu]
 

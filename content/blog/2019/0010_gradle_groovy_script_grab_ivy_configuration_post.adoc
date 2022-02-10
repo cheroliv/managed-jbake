@@ -6,6 +6,7 @@
 :jbake-type: post
 :jbake-status: published
 :jbake-date: 2019-08-14
+:summary: gradle groovy ivy
 
 Le sujet du ticket est la configuration d'un script de build Gradle. +
 Je veux pouvoir utiliser un script Groovy sans faire référence +

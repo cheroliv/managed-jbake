@@ -6,6 +6,7 @@
 :jbake-tags: blog, ticket, bash, shell-script, awk, ls, memo
 :jbake-status: published
 :jbake-date: 2020-09-17
+:summary: la somme des tailles de fichiers dans un dossier
 
 ==== Liens: https://unix.stackexchange.com/questions/72661/show-sum-of-file-sizes-in-directory-listing[stackexchange]
 

@@ -6,7 +6,7 @@
 :jbake-tags: blog, ticket, git, remote, repository, memo
 :jbake-status: published
 :jbake-date: 2020-09-21
-
+:summary: simple mémo git
 == Changer de depot distant dans git
 
 

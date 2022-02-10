@@ -6,7 +6,7 @@
 :jbake-tags: blog, ticket, bdd, gherkin, cucumber, memo
 :jbake-status: published
 :jbake-date: 2020-09-23
-
+:summary: BDD, cucumber, gherkin en français
 [source,json]
 ----
 {"fr": {

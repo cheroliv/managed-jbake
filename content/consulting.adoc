@@ -19,14 +19,11 @@ status=published
 
 ==== _Mes outils:_
 
-* Méthodologies: Agile, Scrum, Kanban et Merise.
-* Design: Figma.
-* Mobile: Kotlin et Android Studio.
-* Front end: Html, Css, Vanilla Javascript, Reactjs et Gatsbyjs.
+* Méthodologies: Agile, Scrum & Merise.
+* Pratiques: test driven development, behavior driven design
 * Back end:
-** Kotlin, Groovy, Java et SpringBoot
-** Javascript, Node.js et ExpressJs
+** Kotlin, Groovy, Java & SpringBoot
 ** PostgreSQL, MySQL, H2 et Firebase
-** Docker, Kubernetes et Microkubernetes
+* Front end: javascript, Gatsby.Js
 
 ==== contact: cheroliv @t laposte.net

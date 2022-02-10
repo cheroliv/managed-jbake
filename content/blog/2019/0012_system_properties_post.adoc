@@ -6,6 +6,7 @@
 :jbake-type: post
 :jbake-status: published
 :jbake-date: 2019-08-17
+:summary: la classe System.Properties de la jvm
 
 Un membre de la classe System assez intéressant dans la https://fr.wikipedia.org/wiki/Machine_virtuelle_Java[JVM], +
 qui méritait bien son ticket  https://docs.oracle.com/javase/tutorial/essential/environment/sysprop.html[System.Properties] +

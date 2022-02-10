@@ -6,6 +6,7 @@
 :jbake-type: post
 :jbake-status: published
 :jbake-date: 2019-07-30
+:summary: tatonnement de postgres
 
 Je n'ai pas envie d'installer https://www.pgadmin.org/[pgAdmin] ou http://phppgadmin.sourceforge.net/[phppgadmin]
 alors que tout est présent en ligne de commande. +

@@ -6,6 +6,7 @@
 :jbake-tags: blog, string, file, rename, groovy, IO
 :jbake-status: published
 :jbake-date: 2019-07-29
+:summary: recursion en groovy
 
 Mon lecteur de vidéo sur ma TV a sa façon de passer +
 d'un fichier à l'autre en lecture continue +

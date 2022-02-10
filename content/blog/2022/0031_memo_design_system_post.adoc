@@ -6,6 +6,7 @@
 :jbake-tags: blog, ticket, design system
 :jbake-status: published
 :jbake-date: 2022-01-09
+:summary: Simple mémo des liens utiles et des références dans le design system
 
 
 ===== https://www.zetoolbox.fr/blog/https://www.zetoolbox.fr/blog/illustrations-gratuites-les-meilleurs-sites-pour-votre-prochain-projet-designillustrations-gratuites-les-meilleurs-sites-pour-votre-prochain-projet-design[source]

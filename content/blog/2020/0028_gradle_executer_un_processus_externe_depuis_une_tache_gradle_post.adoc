@@ -6,7 +6,7 @@
 :jbake-tags: blog, ticket, gradle, task, external-process, gradle-groovy-dsl, gradle-kotlin-dsl, memo
 :jbake-status: published
 :jbake-date: 2020-09-28
-
+:summary: Comment lancer un binaire externe depuis une tache gradle
 
 
 ==== Gradle-Kotlin-DSL:
@@ -55,5 +55,3 @@ Pour exécuter la tâche:
 ```
 $ ./gradlew pHVG
 ```
-
-

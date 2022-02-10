@@ -6,6 +6,8 @@
 :jbake-tags: blog, debian, configuration
 :jbake-status: published
 :jbake-date: 2019-04-19
+:summary: ma configuration de poste
+
 
 Bonjour/bonsoir +
 Je suis à bout des blocages système de Ubuntu +

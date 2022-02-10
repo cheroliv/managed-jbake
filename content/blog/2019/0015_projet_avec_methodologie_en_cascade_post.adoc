@@ -6,6 +6,7 @@
 :jbake-date: 2019-08-01
 :jbake-type: post
 :jbake-status: published
+:summary: un peu de methodo des projets digitals avec la méthodologie en cascade
 
 === Analyser et receuillir les besoins
 

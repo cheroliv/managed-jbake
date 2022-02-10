@@ -6,6 +6,8 @@
 :jbake-tags: blog, asciidoc, gradle, Kotlin, org.ajoberstar.git-publish, org.jbake.site, internet-libre, article, ticket, git, github, gitlab, ssh, disqus.com
 :jbake-status: published
 :jbake-date: 2019-04-16
+:summary: un depot de code pour faire un blog avec jbake
+
 
 Le project gradle-jbake-git-publish-disqus est un blog facile à mettre en ligne pour demarrer l'ecriture d'article.
 Le project gradle-jbake-git-publish-disqus est une application en ligne de commande.

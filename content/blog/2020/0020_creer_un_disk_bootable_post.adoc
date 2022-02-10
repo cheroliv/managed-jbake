@@ -6,6 +6,6 @@
 :jbake-tags: blog, ticket, bootable, gui, etcher, memo
 :jbake-status: published
 :jbake-date: 2020-09-19
-
+:summary: faire son disque bootable
 
 ==== Liens: https://www.balena.io/etcher/[etcher]

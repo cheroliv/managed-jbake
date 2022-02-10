@@ -6,6 +6,7 @@
 :jbake-type: post
 :jbake-status: published
 :jbake-date: 2019-08-12
+:summary: un peu de bash avec find
 
 Je recherche des fichiers par critères de nom:
 la liste des fichier qui ont pour extension .h et .cpp

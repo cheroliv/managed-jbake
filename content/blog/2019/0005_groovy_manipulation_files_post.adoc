@@ -6,6 +6,8 @@
 :jbake-type: post
 :jbake-status: published
 :jbake-date: 2019-07-18
+:summary: manipulation de fichiers et recherche de caracteres en groovy
+
 
 Ici je vais m’intéresser au chargement d'une propriété dans un build projet https://docs.gradle.org/current/userguide/userguide.html[gradle] +
 sans que celle ci soit disponible dans le code. +

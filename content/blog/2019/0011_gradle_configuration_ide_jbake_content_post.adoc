@@ -6,6 +6,7 @@
 :jbake-type: post
 :jbake-status: published
 :jbake-date: 2019-08-16
+:summary: ajouter un dossier au classpath d'un build gradle
 
 Dans un projet applicatif piloté par le gestionnaire de build Gradle +
 il est plus agréable d’avoir la visibilité sur tous les dossiers +

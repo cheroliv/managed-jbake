@@ -6,6 +6,7 @@
 :jbake-type: post
 :jbake-status: published
 :jbake-date: 2019-07-10
+:summary: du groovy, des boucles et de la manipulation de code ascii
 
 Voici un bout de code fonctionnel en Groovy, qui génère un fichier texte, +
 avec les 256 premiers caractères lisibles du tableau ASCII +

@@ -6,6 +6,7 @@
 :jbake-tags: blog, ticket, asciidoc, markdown, memo
 :jbake-status: published
 :jbake-date: 2020-09-15
+:summary: simple mémo ascidoc/markdown
 
 
 ==== Pourquoi asciidoc ou markdown ?
