@@ -8,21 +8,27 @@ status=published
 ----
 
 
-*Mon but: Améliorer votre expérience digital.*
+*Mon but: Améliorer votre expérience digitale.*
 
 ==== _Comment j'interviens ?_
 
-* Analyse des besoins, identifications des traitements.
-* Prototypage et proposition de budget.
-* Développement d'une solution.
-* Déploiement et exploitation de la solution.
+* Analyse des besoins, identifications des traitements
+* Prototypage et proposition de budget
+* Développement d'une solution
+* Déploiement et exploitation de la solution
 
 ==== _Mes outils:_
 
-* Méthodologies: Agile, Scrum & Merise.
-* Pratiques: test driven development, behavior driven design
+* Méthodologies: Agile, Scrum, Kanban, Merise
+* Design: Figma
+* Mobile: Kotlin et Android Studio
 * Back end:
-** Kotlin, Groovy, Java & SpringBoot
-** Gradle, Docker, Jenkins, Git
-** PostgreSQL, MySQL, H2 et Firebase
-* Front end: javascript, Gatsby.Js
+** SpringBoot
+** Node.js et ExpressJs
+* Database: PostgreSQL, MySQL, H2 et Firebase
+* Front end: Html, Css, Vanilla Javascript, Reactjs, Gatsbyjs.
+* langages : Kotlin, Groovy, Java, Javascript, Typescript, Bash
+* build tools: Gradle, Maven
+* DevOps: Docker, Kubernetes, Jenkins
+
+==== contact: cheroliv.developer@laposte.net
