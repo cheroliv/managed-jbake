@@ -1,0 +1,36 @@
+= Ceelo Dice Game Android Application
+@CherOliv
+2022-04-30
+:jbake-title: Ceelo Dice Game Android Application
+:jbake-type: post
+:jbake-tags: blog, ticket, android, kotlin, tdd
+:jbake-status: published
+:jbake-date: 2022-04-30
+:summary: Jeu de Cee Lo sur Android, jouable en local et remote.
+
+== le jeux de Cee Lo sur android
+voici le https://github.com/gretandroid/CeeLoDiceGame[lien] du repository avec son read me +
+
+=== La version 0.0.0
+Cette premiere version permet de jouer en local contre, +
+le générateur de nombres aléatoire du système android.
+
+screen sur mobile en dark mode: +
+
+* _landing screen portrait:_
+
+image::../../img/2022_0031_memo_design_system_post/Screenshot_20220430-143711_CeeLoGame.jpg[landing portrait,240,]
+
+* _game result screen portrait:_
+
+image::../../img/2022_0031_memo_design_system_post/Screenshot_20220430-143743_CeeLoGame.jpg[result portait,240,]
+
+* _landing screen landscape:_
+
+image::../../img/2022_0031_memo_design_system_post/Screenshot_20220430-143722_CeeLoGame.jpg[landing landscape,450,]
+
+. _game result screen landscape:_
+
+image::../../img/2022_0031_memo_design_system_post/Screenshot_20220430-143734_CeeLoGame.jpg[result landscape,450,]
+
+
