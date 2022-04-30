@@ -12,7 +12,7 @@
 voici le https://github.com/gretandroid/CeeLoDiceGame[lien] du repository avec son read me +
 
 === La version 0.0.0
-Cette premiere version permet de jouer en local contre, +
+Cette premiere version permet de jouer en local contre +
 le générateur de nombres aléatoire du système android.
 
 screen sur mobile en dark mode: +
