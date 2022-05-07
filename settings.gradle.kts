@@ -7,10 +7,10 @@ pluginManagement {
             maven(url = "https://repo.eclipse.org/content/groups/releases/")
         }
         dependencies {
-            val jacksonVersion = "2.13.1"
-            val jgitVersion = "6.0.0.202111291000-r"
+            val jacksonVersion = "2.13.2"
+            val jgitVersion = "6.1.0.202203080745-r"
             val commonsIoVersion = "2.11.0"
-            val slf4jVersion = "1.7.32"
+            val slf4jVersion = "1.7.36"
             val xzVersion = "1.9"
             classpath(dependencyNotation = "com.fasterxml.jackson.module:jackson-module-kotlin:$jacksonVersion")
             classpath(dependencyNotation = "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:$jacksonVersion")
