@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title><#if (content.title)??><#escape x as x?xml>${content.title}</#escape><#else>CherOliv.com</#if></title>
-    <meta name="google-site-verification" content="oTZL-J0lpqoMMfQvrhFBaPfG1gtsswFKz1RzHoMLgbo" />
+    <title><#if (content.title)??>${content.title}<#else>JBake</#if></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -15,9 +14,11 @@
     <link href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/asciidoctor.css" rel="stylesheet">
     <link href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/base.css" rel="stylesheet">
     <link href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/prettify.css" rel="stylesheet">
-    <link href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" rel="stylesheet">
 
-
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/html5shiv.min.js"></script>
+    <![endif]-->
 
     <!-- Fav and touch icons -->
     <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
@@ -28,3 +29,4 @@
   </head>
   <body onload="prettyPrint()">
     <div id="wrap">
+   
